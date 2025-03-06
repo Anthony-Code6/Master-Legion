@@ -1,0 +1,6 @@
+[submodule "LM-Frontend"]
+	path = LM-Frontend
+	url = https://github.com/Anthony-Code6/LM-Frontend.git
+[submodule "Legion-Master"]
+	path = Legion-Master
+	url = https://github.com/Anthony-Code6/Legion-Master.git
